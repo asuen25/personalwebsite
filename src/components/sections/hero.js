@@ -52,7 +52,7 @@ const Hero = () => {
   const three = <h3 className="big-heading">I build things for the world.</h3>;
   const four = (
     <p>
-      First year studying Electrical Engineering at Stanford University. I am passionate about the intersection of chip design and AI.
+      Undergraduate studying Electrical Engineering at Stanford University. I am passionate about the intersection of chip design and AI.
     </p>
   );
   const five = (

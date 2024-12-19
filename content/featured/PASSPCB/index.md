@@ -1,7 +1,7 @@
 ---
 date: '3'
 title: 'Photoacoustic Sensor PCB Board'
-cover: '../empty.png'
+cover: './PASSPCB.png'
 github: 'https://github.com/asuen25/PASS_PMUTBreakoutBoardV2'
 external: ''
 tech:

@@ -142,7 +142,7 @@ const About = () => {
       <div className="inner">
         <StyledText>
           <div>
-            <p>Hello! I'm Alexander, a first year undergraduate studying electrical engineering at Stanford University.
+            <p>Hello! I'm Alexander, an undergraduate studying electrical engineering at Stanford University.
               I am currently aiming towards a graduate degree in electrical engineering and hoping to eventually work in 
               industry. I am interested in the chip design aspect of electrical engineering and more specifically, 
               digital design and hardware verification. I aspire to work in the intersection of chip design and artifical intelligence
